@@ -1,0 +1,11 @@
+{
+    "name": "42school/php-symfony-ex02",
+    "description": "Exercise 02 - Development requirement",
+    "type": "project",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "license": "proprietary",
+    "minimum-stability": "stable"
+}
