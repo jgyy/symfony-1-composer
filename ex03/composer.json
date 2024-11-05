@@ -1,0 +1,14 @@
+{
+    "name": "training/composer-example",
+    "description": "Example project for demonstrating composer install vs update",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^2.0",
+        "symfony/console": "^5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
